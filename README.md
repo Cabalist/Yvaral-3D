@@ -2,9 +2,8 @@ An implementation of Yvaral's 'L'instabilità come condizione umana' (1981) in O
 
 Suitable groundwork creating generative pieces in the style.
 
-Original Art:
-https://www.arsvalue.com/it/lotti/439589/yvaral-1934-2002-l-instabilita-come-condizione-umana-1981
-
+Original:
+![original.png](original.png)
 
 Render:
 
